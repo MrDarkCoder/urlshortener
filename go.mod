@@ -25,6 +25,7 @@ require (
 )
 
 require (
+	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/leodido/go-urn v1.1.0 // indirect
 	github.com/vmihailenco/msgpack v4.0.4+incompatible
 	go.mongodb.org/mongo-driver v1.8.2
